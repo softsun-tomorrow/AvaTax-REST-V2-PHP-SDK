@@ -1,6 +1,6 @@
 {
     "name": "softsun/avataxclient",
-    "description": "Client library for Avalara's AvaTax suite of business tax calculation and processing services. Uses the REST v2 API.",
+    "description": "Client library for Avalara's AvaTax suite of business tax calculation and processing services. Uses the REST v2 API. 123",
     "keywords": [
         "tax",
         "AvaTax",
